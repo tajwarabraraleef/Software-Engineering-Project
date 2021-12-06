@@ -1,4 +1,3 @@
-//Copyright 2016, Tajwar Abrar Aleef, All rights reserved.
 //tajwar.aleef@gmail.com
 int datain = 0;   
 const int MotorOut = 13;
